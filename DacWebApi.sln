@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DacWebApi", "DacWebApi\DacWebApi.csproj", "{AB6447EF-8A0D-4B6B-A986-4E0A34BE33DF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dac", "Dac\Dac.csproj", "{900DCF7E-4B88-4C8C-8E2A-8EC7A82F9247}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB6447EF-8A0D-4B6B-A986-4E0A34BE33DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB6447EF-8A0D-4B6B-A986-4E0A34BE33DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB6447EF-8A0D-4B6B-A986-4E0A34BE33DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB6447EF-8A0D-4B6B-A986-4E0A34BE33DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{900DCF7E-4B88-4C8C-8E2A-8EC7A82F9247}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{900DCF7E-4B88-4C8C-8E2A-8EC7A82F9247}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{900DCF7E-4B88-4C8C-8E2A-8EC7A82F9247}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{900DCF7E-4B88-4C8C-8E2A-8EC7A82F9247}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2CC678B-248A-4594-BB4C-CEE09A28D738}
+	EndGlobalSection
+EndGlobal
