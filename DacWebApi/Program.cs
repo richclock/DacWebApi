@@ -48,6 +48,9 @@ namespace DacWebApi
                 case "Mitsubishi":
                     builder.Services.AddSingleton<IPlc, Mitsubishi>();
                     break;
+                case "FanucRobot":
+                    builder.Services.AddSingleton<IPlc, FanucRobot>();
+                    break;
                 case "TestPlc":
                     builder.Services.AddSingleton<IPlc, TestPlc>();
                     break;

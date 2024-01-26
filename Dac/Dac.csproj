@@ -11,4 +11,10 @@
     <PackageReference Include="System.IO.Ports" Version="8.0.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Reference Include="RobotInterfaceDotNet">
+      <HintPath>bin\Debug\net48\RobotInterfaceDotNet.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
